@@ -1,0 +1,48 @@
+{
+    "marca": "Audi",
+    "fundacion": {
+      "año": 1909,
+      "fundador": "August Horch"
+    },
+    "sede": "Ingolstadt, Alemania",
+    "eslogan": "A la vanguardia de la técnica",
+    "modelos_populares": [
+        "Audi A3",
+        "Audi A4",
+        "Audi A6",
+        "Audi Q5",
+        "Audi Q7",
+        "Audi R8"
+    ],
+    "tecnologia_destacada": [
+        {
+            "nombre": "Quattro",
+            "descripcion": "Sistema de tracción total que mejora la estabilidad y agarre en todo tipo de terrenos."
+        },
+        {
+            "nombre": "Virtual Cockpit",
+            "descripcion": "Panel de instrumentos digital personalizable con información en tiempo real."
+        },
+        {
+            "nombre": "Matrix LED",
+            "descripcion": "Faros LED inteligentes que ajustan automáticamente la iluminación para evitar deslumbramientos."
+        },
+        {
+            "nombre": "e-tron",
+            "descripcion": "Tecnología de electrificación de Audi que incluye vehículos híbridos y totalmente eléctricos."
+        },
+        {
+            "nombre": "Audi AI",
+            "descripcion": "Sistemas avanzados de asistencia a la conducción basados en inteligencia artificial."
+        },
+        {
+            "nombre": "MMI Touch Response",
+            "descripcion": "Sistema de infoentretenimiento con pantalla táctil háptica para una experiencia intuitiva."
+        }
+    ],
+    "competencia": [
+      "BMW",
+      "Mercedes-Benz",
+      "Porsche"
+    ]
+}
